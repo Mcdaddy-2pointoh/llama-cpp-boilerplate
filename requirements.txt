@@ -1,0 +1,6 @@
+# Model Specific
+llama-cpp-python
+huggingface_hub
+
+# For env
+python-dotenv
