@@ -1,6 +1,6 @@
 # Model Specific
-llama-cpp-python
-huggingface_hub
+llama-cpp-python==0.2.90
+huggingface-hub==0.24.7
 
 # For env
-python-dotenv
+python-dotenv==1.0.1
